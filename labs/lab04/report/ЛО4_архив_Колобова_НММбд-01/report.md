@@ -141,6 +141,7 @@ git commit -am 'feat(main): add files lab-4'
 
 git push
 
+Ссылка на репозиторий: https://github.com/eakolobova/study_2022-2023_arch-pc/tree/master/labs/lab03/report
 
 # **Выводы**
 
